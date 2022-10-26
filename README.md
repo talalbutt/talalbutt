@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @talalbutt
 - 👀 I’m interested in creating innovative applications
 - 🌱 I’m currently learning multiple languages and platforms
-- 💞️ I’m looking to collaborate on exciting projects
+- 💞️ I’m looking to collaborate in exciting projects
 - 📫 How to reach me talalbutt@gmail.com
 
 <!---
